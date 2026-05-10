@@ -143,7 +143,7 @@ MBA (AI & Data Science) Student | AI Automation | Data Engineering | Machine Lea
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ayush-T23&show_icons=true&theme=tokyonight" height="180em" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-T23&theme=tokyonight" height="180em" />
+<img src="https://streak-stats.demolab.com?user=Ayush-T23&theme=tokyonight" height="180em" />
 
 </p>
 
