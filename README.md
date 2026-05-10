@@ -141,18 +141,18 @@ MBA (AI & Data Science) Student | AI Automation | Data Engineering | Machine Lea
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush-T23&show_icons=true&theme=github_dark&cache_seconds=1800" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush-T23&show_icons=true&theme=tokyonight" height="180em" />
 
-<img src="https://streak-stats.demolab.com?user=Ayush-T23&theme=github-dark&cache_seconds=1800" height="180em" />
+<img src="https://streak-stats.demolab.com?user=Ayush-T23&theme=tokyonight" height="180em" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-T23&layout=compact&theme=github_dark&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-T23&layout=compact&theme=tokyonight" />
 
 </p>
----
+
 
 ## ⚡ Fun Fact
 
