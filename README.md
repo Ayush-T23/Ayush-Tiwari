@@ -35,22 +35,64 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
+# 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,aws,html,css,javascript" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,mysql,postgres,mongodb,sqlite,pyspark,aws,docker,git,github,linux,bash,html,css,javascript,react,nodejs,vscode,flask&perline=8" />
 
 </p>
 
-### Data Science & AI
-- Pandas
-- NumPy
-- Scikit-learn
-- PySpark
-- Databricks
-- TensorFlow
+---
+
+## 🤖 AI / Data Science
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&perline=6" />
+
+</p>
+
+- Machine Learning
 - NLP
 - RAG
+- Feature Engineering
+- Model Evaluation
+- SVM
+- Ridge Regression
+
+---
+
+## ⚙️ Data Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,mysql,postgres,mongodb,docker,linux&perline=6" />
+
+</p>
+
+- PySpark
+- Databricks
+- Delta Lake
+- ETL Pipelines
+- Data Warehousing
+- Apache Spark
+
+---
+
+## 🔗 Automation & Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,flask,html,css,javascript,nodejs,react,vscode&perline=6" />
+
+</p>
+
 - n8n Automation
+- Agentic AI
+- API Integration
+- Prompt Engineering
+- Workflow Automation
 
 ---
 
