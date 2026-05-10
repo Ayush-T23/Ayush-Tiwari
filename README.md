@@ -102,7 +102,7 @@ MBA (AI & Data Science) Student | AI Automation | Data Engineering | Machine Lea
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,flask,html,css,javascript,nodejs,react,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,flask,html,css,javascript,nodejs,react,vscode,visualstudio&perline=5" />
 
 </p>
 
